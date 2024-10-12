@@ -1,0 +1,44 @@
+.main{
+    font-size: 70px;
+    margin:20px auto;
+    font-style: initial;
+    color: black;
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-size: 45px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:silver;
+}
+.links{
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left:10px;
+}
+.basic{
+    margin: auto;
+    background-color:white;
+}
+li{
+    font-size: 30px;
+    margin-left: 30px;
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+}
+footer{
+    margin-top:200px;
+    font-size: 30px;
+    text-align: center;
+    background-color:lightcyan;
+    font-weight: bold;
+   
+}
+.links{
+    padding: auto;
+}
